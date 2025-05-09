@@ -51,3 +51,12 @@ The system supports **role-based dashboards**, real-time data fetching, and inte
  
 ---
 
+---
+
+## 🎬 Demo Videos
+
+* 📽 **3-Minute Presentation Video** [link to video](https://mahindraecolecentrale-my.sharepoint.com/:f:/g/personal/se22ucse135_mahindrauniversity_edu_in/EocNwIx-xaZHj2CDNGqkmRABsMNu1Ig_-He946XU3qqJmQ?e=FNd8nI)
+* 🧪 **Extended Demo + Local Setup Walkthrough** [link to video](https://mahindraecolecentrale-my.sharepoint.com/:v:/g/personal/se22ucse135_mahindrauniversity_edu_in/EUNVT2JECApPgxIy_Oh-6N8BScKGHLvRpcN7cgMxZm7m7A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ohJ6TB)
+
+---
+
